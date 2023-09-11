@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mi Resume</string>
+    <string name="username">Username</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="github">GitHub Profile</string>
+    <string name="resume_image">Resume Image</string>
+    <string name="bio">➢ Bio:</string>
+    <string name="bio_text">Highly motivated Mobile Application Developer with over 1 year of experience in Android. Growing knowledge and hands-on experience working on Smartphone Applications. I am passionate about solving real world problems. </string>
+    <string name="skills">➢ Skills:</string>
+    <string name="skills_text">Material Design, MVVM, Navigation, Git and GitHub, WorkManager, Dependency Injection, Retrofit, Kotlin, Firebase</string>
+    <string name="experience">➢ Experience:</string>
+    <string name="education">➢ Education:</string>
+    <string name="save">Save</string>
+    <string name="edit_resume">Edit Resume</string>
+    <string name="name">Name</string>
+    <string name="fullname_hint">Enter full name</string>
+    <string name="enter_slack_username">Enter slack username</string>
+    <string name="enter_github_link">Enter GitHub link</string>
+    <string name="bio_textt">Bio</string>
+    <string name="skills_textt">Skills</string>
+    <string name="enter_skill">Enter skill</string>
+    <string name="enter_bio">Enter bio</string>
+    <string name="experience_textt">Experience</string>
+    <string name="enter_education">Enter education</string>
+    <string name="education_textt">Education</string>
+    <string name="enter_experience">Enter experience</string>
+    <string name="title">Title</string>
+    <string name="enter_title">Enter title</string>
+    <string name="back_arrow">Back arrow</string>
+    <string name="info_placeholder">More Information</string>
+    <string name="title_placeholder">Title</string>
+    <string name="date">Date</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
